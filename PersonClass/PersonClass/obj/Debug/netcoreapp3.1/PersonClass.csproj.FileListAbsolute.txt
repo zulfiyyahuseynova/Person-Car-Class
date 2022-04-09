@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\PersonClass\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.genruntimeconfig.cache

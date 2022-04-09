@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\bin\Debug\netcoreapp3.1\CarClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tekrar Tasklar\CarClass\CarClass\obj\Debug\netcoreapp3.1\CarClass.genruntimeconfig.cache
